@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SurveyAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Manuel\\Desktop\\SurveyEntries.csv\" \"C:\\Users\\Manuel\\Desktop\\out.csv\""
+    }
+  }
+}
